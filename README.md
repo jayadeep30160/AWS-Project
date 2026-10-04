@@ -80,4 +80,4 @@ Open the Vite URL shown in the terminal, normally `http://localhost:5173`.
 - `GET /api/data/health`
 
 ## Current project limitation
-The DataBrew recipe is intentionally your existing customer-sales recipe. It expects columns such as Customer_Name, Age, City, Quantity, Product and Rating. A future version can create recipes dynamically for arbitrary CSV schemas
+The DataBrew recipe is intentionally your existing customer-sales recipe. It expects columns such as Customer_Name, Age, City, Quantity, Product and Rating. A future version can create recipes dynamically for arbitrary CSV schemas.
