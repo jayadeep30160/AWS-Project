@@ -19,7 +19,7 @@ React → Spring Boot → Amazon S3 → AWS Glue DataBrew → Amazon S3 → Reac
 
 ## AWS resources expected
 - Region: `ap-south-1`
-- S3 bucket: `sathwik-databrew-project-2026`
+- S3 bucket: `databrew-project-2026`
 - DataBrew recipe: `customer-sales-cleaning-recipe`
 - Recipe version: `1`
 - DataBrew execution role: `DataBrewS3AccessRole`
